@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Hanna日记</title>
-    <link>xiongweinudt.github.io/zora/tags/</link>
+    <link>/zora/tags/</link>
     <description>Recent content in Tags on Hanna日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Mar 2020 19:10:36 +0800</lastBuildDate>
     
-        <atom:link href="xiongweinudt.github.io/zora/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/zora/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>blog</title>
-        <link>xiongweinudt.github.io/zora/tags/blog/</link>
+        <link>/zora/tags/blog/</link>
         <pubDate>Fri, 20 Mar 2020 19:10:36 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         
-        <guid>xiongweinudt.github.io/zora/tags/blog/</guid>
+        <guid>/zora/tags/blog/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>生活</title>
-        <link>xiongweinudt.github.io/zora/tags/%E7%94%9F%E6%B4%BB/</link>
+        <link>/zora/tags/%E7%94%9F%E6%B4%BB/</link>
         <pubDate>Fri, 20 Mar 2020 19:10:36 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         
-        <guid>xiongweinudt.github.io/zora/tags/%E7%94%9F%E6%B4%BB/</guid>
+        <guid>/zora/tags/%E7%94%9F%E6%B4%BB/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>photo</title>
-        <link>xiongweinudt.github.io/zora/tags/photo/</link>
+        <link>/zora/tags/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         
-        <guid>xiongweinudt.github.io/zora/tags/photo/</guid>
+        <guid>/zora/tags/photo/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>

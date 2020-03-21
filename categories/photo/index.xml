@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>photo on Hanna日记</title>
-    <link>xiongweinudt.github.io/zora/categories/photo/</link>
+    <link>/zora/categories/photo/</link>
     <description>Recent content in photo on Hanna日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="xiongweinudt.github.io/zora/categories/photo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/zora/categories/photo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Photo</title>
-        <link>xiongweinudt.github.io/zora/gallery/photos/</link>
+        <link>/zora/gallery/photos/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>xiongweinudt.github.io/zora/gallery/photos/</guid>
+        <guid>/zora/gallery/photos/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>
-        <media:content url="xiongweinudt.github.io/zora/img/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="/zora/img/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

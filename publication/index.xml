@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on Hanna日记</title>
-    <link>xiongweinudt.github.io/zora/publication/</link>
+    <link>/zora/publication/</link>
     <description>Recent content in Publications on Hanna日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Mar 2020 23:22:56 +0800</lastBuildDate>
     
-        <atom:link href="xiongweinudt.github.io/zora/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/zora/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>夏日午后</title>
-        <link>xiongweinudt.github.io/zora/publication/summer/</link>
+        <link>/zora/publication/summer/</link>
         <pubDate>Fri, 20 Mar 2020 23:22:56 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         <atom:modified>Fri, 20 Mar 2020 23:22:56 +0800</atom:modified>
-        <guid>xiongweinudt.github.io/zora/publication/summer/</guid>
+        <guid>/zora/publication/summer/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>
