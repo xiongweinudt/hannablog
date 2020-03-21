@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hanna日记</title>
-    <link>/zora/</link>
+    <link>/hannablog/</link>
     <description>Recent content on Hanna日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Mar 2020 12:39:12 +0800</lastBuildDate>
     
-        <atom:link href="/zora/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/hannablog/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -45,11 +45,11 @@
       
       <item>
         <title>Hanna博客新家</title>
-        <link>/zora/posts/first/</link>
+        <link>/hannablog/posts/first/</link>
         <pubDate>Fri, 20 Mar 2020 19:10:36 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         <atom:modified>Fri, 20 Mar 2020 19:10:36 +0800</atom:modified>
-        <guid>/zora/posts/first/</guid>
+        <guid>/hannablog/posts/first/</guid>
         <description>My first blog. 值得纪念的一天，我搬进了博客新家，以后我写的文章，拍的照片和视频都可以放到这里了。 真开心！</description>
         
         <dc:creator>Hanna</dc:creator>
@@ -83,11 +83,11 @@
       
       <item>
         <title>关于</title>
-        <link>/zora/about/</link>
+        <link>/hannablog/about/</link>
         <pubDate>Fri, 20 Mar 2020 12:39:12 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         <atom:modified>Fri, 20 Mar 2020 12:39:12 +0800</atom:modified>
-        <guid>/zora/about/</guid>
+        <guid>/hannablog/about/</guid>
         <description>Hello, my name is Hanna, I am a primary school student in Changsha, Hunan Province. I like practising handwriting and playing badminton. I am a sports-loving, healthy little girl, very happy to know everyone. 大家好，我叫Hanna，是一名湖南长沙的小学生。我喜欢练习书法，打羽毛球</description>
         
         <dc:creator>Hanna</dc:creator>

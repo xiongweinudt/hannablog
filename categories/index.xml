@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Hanna日记</title>
-    <link>/zora/categories/</link>
+    <link>/hannablog/categories/</link>
     <description>Recent content in Categories on Hanna日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Mar 2020 22:12:29 +0800</lastBuildDate>
     
-        <atom:link href="/zora/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/hannablog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>ppt</title>
-        <link>/zora/categories/ppt/</link>
+        <link>/hannablog/categories/ppt/</link>
         <pubDate>Fri, 20 Mar 2020 22:12:29 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         
-        <guid>/zora/categories/ppt/</guid>
+        <guid>/hannablog/categories/ppt/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>作业</title>
-        <link>/zora/categories/%E4%BD%9C%E4%B8%9A/</link>
+        <link>/hannablog/categories/%E4%BD%9C%E4%B8%9A/</link>
         <pubDate>Fri, 20 Mar 2020 22:12:29 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         
-        <guid>/zora/categories/%E4%BD%9C%E4%B8%9A/</guid>
+        <guid>/hannablog/categories/%E4%BD%9C%E4%B8%9A/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>日常</title>
-        <link>/zora/categories/%E6%97%A5%E5%B8%B8/</link>
+        <link>/hannablog/categories/%E6%97%A5%E5%B8%B8/</link>
         <pubDate>Fri, 20 Mar 2020 22:12:29 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         
-        <guid>/zora/categories/%E6%97%A5%E5%B8%B8/</guid>
+        <guid>/hannablog/categories/%E6%97%A5%E5%B8%B8/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>posts</title>
-        <link>/zora/categories/posts/</link>
+        <link>/hannablog/categories/posts/</link>
         <pubDate>Fri, 20 Mar 2020 19:10:36 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         
-        <guid>/zora/categories/posts/</guid>
+        <guid>/hannablog/categories/posts/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>photo</title>
-        <link>/zora/categories/photo/</link>
+        <link>/hannablog/categories/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         
-        <guid>/zora/categories/photo/</guid>
+        <guid>/hannablog/categories/photo/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>

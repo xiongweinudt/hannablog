@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on Hanna日记</title>
-    <link>/zora/publication/</link>
+    <link>/hannablog/publication/</link>
     <description>Recent content in Publications on Hanna日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Mar 2020 23:22:56 +0800</lastBuildDate>
     
-        <atom:link href="/zora/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/hannablog/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>夏日午后</title>
-        <link>/zora/publication/summer/</link>
+        <link>/hannablog/publication/summer/</link>
         <pubDate>Fri, 20 Mar 2020 23:22:56 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
         <atom:modified>Fri, 20 Mar 2020 23:22:56 +0800</atom:modified>
-        <guid>/zora/publication/summer/</guid>
+        <guid>/hannablog/publication/summer/</guid>
         <description></description>
         
         <dc:creator>Hanna</dc:creator>
