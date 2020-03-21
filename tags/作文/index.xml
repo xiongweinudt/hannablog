@@ -6,46 +6,44 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>photo on Hanna日记</title>
-    <link>hannablog/tags/photo/</link>
-    <description>Recent content in photo on Hanna日记</description>
+    <title>作文 on Hanna日记</title>
+    <link>hannablog/tags/%E4%BD%9C%E6%96%87/</link>
+    <description>Recent content in 作文 on Hanna日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>6841974 AT qq.com (Hanna)</managingEditor>
     <webMaster>6841974 AT qq.com (Hanna)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 17:03:00 +0800</lastBuildDate>
     
-        <atom:link href="hannablog/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="hannablog/tags/%E4%BD%9C%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
-        <title>Photo</title>
-        <link>hannablog/gallery/photos/</link>
-        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
+        <title>画成语</title>
+        <link>hannablog/posts/drawidiom/</link>
+        <pubDate>Sat, 21 Mar 2020 17:03:00 +0800</pubDate>
         <author>6841974 AT qq.com (Hanna)</author>
-        <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>hannablog/gallery/photos/</guid>
-        <description></description>
+        <atom:modified>Sat, 21 Mar 2020 17:03:00 +0800</atom:modified>
+        <guid>hannablog/posts/drawidiom/</guid>
+        <description>画成语 最近，爸爸每天都会和我一起在书桌前一边学成语，一边画成语。 那天晚上，我从自己的书房里走出来，爸爸对我说：“我们一起来画成语吧？”我惊奇</description>
         
         <dc:creator>Hanna</dc:creator>
-        <media:content url="hannablog/img/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
-        
-          
-            
-              <category>photo</category>
-            
-          
         
         
           
             
-              <category>photo</category>
+              <category>作文</category>
+            
+          
+        
+        
+          
             
           
         
