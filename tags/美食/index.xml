@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>美食 on Hanna日记</title>
+    <link>/hannablog/tags/%E7%BE%8E%E9%A3%9F/</link>
+    <description>Recent content in 美食 on Hanna日记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>6841974 AT qq.com (Hanna)</managingEditor>
+    <webMaster>6841974 AT qq.com (Hanna)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 22 Mar 2020 12:32:23 +0800</lastBuildDate>
+    
+        <atom:link href="/hannablog/tags/%E7%BE%8E%E9%A3%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>蒸包子</title>
+        <link>/hannablog/gallery/baozi/</link>
+        <pubDate>Sun, 22 Mar 2020 12:32:23 +0800</pubDate>
+        <author>6841974 AT qq.com (Hanna)</author>
+        <atom:modified>Sun, 22 Mar 2020 12:32:23 +0800</atom:modified>
+        <guid>/hannablog/gallery/baozi/</guid>
+        <description></description>
+        
+        <dc:creator>Hanna</dc:creator>
+        <media:content url="/hannablog/img/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>美食</category>
+            
+          
+        
+        
+          
+            
+              <category>美食</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>西红柿炒蛋</title>
+        <link>/hannablog/gallery/foodeggs/</link>
+        <pubDate>Sun, 22 Mar 2020 12:32:23 +0800</pubDate>
+        <author>6841974 AT qq.com (Hanna)</author>
+        <atom:modified>Sun, 22 Mar 2020 12:32:23 +0800</atom:modified>
+        <guid>/hannablog/gallery/foodeggs/</guid>
+        <description></description>
+        
+        <dc:creator>Hanna</dc:creator>
+        <media:content url="/hannablog/img/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>美食</category>
+            
+          
+        
+        
+          
+            
+              <category>美食</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
