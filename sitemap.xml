@@ -4,16 +4,36 @@
   
   <url>
     <loc>/hannablog/categories/</loc>
-    <lastmod>2020-03-22T12:32:23+08:00</lastmod>
+    <lastmod>2020-03-28T20:11:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/hannablog/gallery/</loc>
-    <lastmod>2020-03-22T12:32:23+08:00</lastmod>
+    <loc>/hannablog/posts/</loc>
+    <lastmod>2020-03-28T20:11:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hannablog/categories/posts/</loc>
+    <lastmod>2020-03-28T20:11:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>/hannablog/tags/</loc>
+    <lastmod>2020-03-28T20:11:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hannablog/tags/%E4%BD%9C%E6%96%87/</loc>
+    <lastmod>2020-03-28T20:11:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hannablog/posts/poems/</loc>
+    <lastmod>2020-03-28T20:11:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hannablog/gallery/</loc>
     <lastmod>2020-03-22T12:32:23+08:00</lastmod>
   </url>
   
@@ -55,21 +75,6 @@
   <url>
     <loc>/hannablog/presentation/video/</loc>
     <lastmod>2020-03-21T21:11:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hannablog/posts/</loc>
-    <lastmod>2020-03-21T17:03:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hannablog/categories/posts/</loc>
-    <lastmod>2020-03-21T17:03:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hannablog/tags/%E4%BD%9C%E6%96%87/</loc>
-    <lastmod>2020-03-21T17:03:00+08:00</lastmod>
   </url>
   
   <url>
