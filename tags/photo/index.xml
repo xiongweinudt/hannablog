@@ -29,10 +29,10 @@
         <author>6841974 AT qq.com (Hanna)</author>
         <atom:modified>Tue, 28 Apr 2020 20:31:21 +0800</atom:modified>
         <guid>/hannablog/gallery/honors/</guid>
-        <description>images: # when mode is one-by-one, images front matter works image: shanhua.jpg caption: 山花文学社征文 image: maodun1.jpg caption: 茅盾青少年征文 image: maodun2.jpg caption: 茅盾青少年征文 image: maodun3.jpg caption: 茅盾青少年征文 image: freshmen.jpg caption: 新人杯作文大赛 image: 21cen.jpg caption: 21世纪英语公</description>
+        <description></description>
         
         <dc:creator>Hanna</dc:creator>
-        
+        <media:content url="/hannablog/img/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
